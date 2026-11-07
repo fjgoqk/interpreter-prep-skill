@@ -5,7 +5,7 @@ A reusable skill for Chinese-English interpreting preparation. It guides researc
 ## Install
 
 1. Download this repository or the ZIP archive.
-2. For DSH, copy the interpreter-prep folder to <vault>/.dsh/skills/interpreter-prep/ when the Obsidian vault is the DSH project root. For Codex, use ~/.codex/skills/interpreter-prep/ (or $CODEX_HOME/skills/interpreter-prep/ if configured).
+2. For DSH, copy the interpreter-prep folder into the .dsh/skills/interpreter-prep/ folder inside the Obsidian vault when the vault is the DSH project root. For Codex, use ~/.codex/skills/interpreter-prep/ (or $CODEX_HOME/skills/interpreter-prep/ if configured).
 3. Start a new DSH session or refresh the agent so it discovers the skill.
 4. In DSH, make sure the Obsidian vault is the project working directory and the current permission mode allows writing to it. Confirm that web lookup tools are configured if you expect external research.
 
